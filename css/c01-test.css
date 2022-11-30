@@ -1,1 +1,67 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: url("../images/maxresdefault.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}   
+
+h1, h3, p, em {
+    float: left;
+    clear: left;
+    width: 320px;
+    background-color: rgba(255, 192, 116, 0.984);
+    color: rgb(124, 34, 1);
+    text-align: center;
+}
+
+h1 {
+    margin: 60px 0 0 60px;
+    height: 210px;
+    padding: 30px 0 0 -1px;
+    background-image: url("../images/HPlogoNEW2.png"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    text-indent: -9997px;
+    border-top: 4px solid #2e1100;
+    border-left: 4px solid #2e1100;
+    border-right: 4px solid #2e1100;
+}
+
+h3 {
+    margin: 0 0 0 60px;
+    padding: 30px 0 0 -1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.8em;
+    font-style: italic;
+    font-weight: 800;
+    line-height: 0.80em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    border-left: 4px solid #2e1100;
+    border-right: 4px solid #2e1100;
+}
+
+p {
+    margin: 0 0 0 60px;
+    padding: 30px 0 25px 0;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    border-left: 4px solid #2e1100;
+    border-right: 4px solid #2e1100;
+}
+
+em {
+    margin: 0 0 0 60px;
+    padding: 5px 0 25px 0;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    border-left: 4px solid #2e1100;
+    border-right: 4px solid #2e1100;
+    border-bottom: 4px solid #2e1100;
+}
 
